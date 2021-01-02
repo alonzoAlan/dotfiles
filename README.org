@@ -1,0 +1,5 @@
+#+TITLE:My dotfiles
+
+
+[[./images/emacs.png]]
+#+CAPTION: HOME SCREEN
