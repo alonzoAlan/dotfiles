@@ -1,5 +1,6 @@
-#+TITLE:My dotfiles
+#+TITLE: My dotfiles
 
-
+* HOME
 [[./images/emacs.png]]
-#+CAPTION: HOME SCREEN
+* HTOP
+[[./images/htop.png]]
